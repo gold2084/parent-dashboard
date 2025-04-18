@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/parent-dashboard/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/parent-dashboard/static/js/main.bf9fdce2.chunk.js",
+    "main.js.map": "/parent-dashboard/static/js/main.bf9fdce2.chunk.js.map",
+    "runtime~main.js": "/parent-dashboard/static/js/runtime~main.e1dd4e09.js",
+    "runtime~main.js.map": "/parent-dashboard/static/js/runtime~main.e1dd4e09.js.map",
+    "static/js/2.9e11b540.chunk.js": "/parent-dashboard/static/js/2.9e11b540.chunk.js",
+    "static/js/2.9e11b540.chunk.js.map": "/parent-dashboard/static/js/2.9e11b540.chunk.js.map",
+    "static/js/3.ba8b7f13.chunk.js": "/parent-dashboard/static/js/3.ba8b7f13.chunk.js",
+    "static/js/3.ba8b7f13.chunk.js.map": "/parent-dashboard/static/js/3.ba8b7f13.chunk.js.map",
+    "index.html": "/parent-dashboard/index.html",
+    "precache-manifest.cdc5c2bf825a8d9d3c26f55099ab98d6.js": "/parent-dashboard/precache-manifest.cdc5c2bf825a8d9d3c26f55099ab98d6.js",
+    "service-worker.js": "/parent-dashboard/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/parent-dashboard/static/css/main.435d5fe5.chunk.css.map",
+    "static/media/logo.svg": "/parent-dashboard/static/media/logo.06e73328.svg"
+  }
+}
